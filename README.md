@@ -3,7 +3,7 @@ Info char display for PC. Receive data from USB via FT232RL, convert it and prin
 
 - UART baud rate - 9600
 
-# DATA FORMAT:
+## DATA FORMAT:
 #### TEXT DATA:
 	{START_TEXT} {text string} {END_TEXT}
 		START_TEXT  - 0x02
