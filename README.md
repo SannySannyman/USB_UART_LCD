@@ -1,7 +1,7 @@
 # USB_UART_LCD
 Info char display for PC. Receive data from USB via FT232RL, convert it and print on LCD. Supporting 16x02 and 20x04 LCD with HD44780 controller.
 
-- UART baud rate - 9600
+![](/Hardware/Img/1.jpg)
 
 ## DATA FORMAT:
 #### TEXT DATA:
@@ -19,3 +19,4 @@ Info char display for PC. Receive data from USB via FT232RL, convert it and prin
 		text value      - PWM pulse width - 0 to 49
 		END_BACKLIGHT   - 0x12
 
+- UART baud rate - 9600
